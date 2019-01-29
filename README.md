@@ -1,9 +1,11 @@
 # checkResizeAds
 
 init
+```
 <div class="ads-block"><ins/></div>
+```
 
-<code>
+```
 <script>
 $(function () {
         $('.ads-block').CheckResizeAds({
@@ -17,4 +19,4 @@ $(function () {
         });
 })
 </script>
-</code>
+```
