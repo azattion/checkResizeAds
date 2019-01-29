@@ -1,6 +1,6 @@
 # checkResizeAds
 
-init
+example
 ```
 <div class="ads-block"><ins/></div>
 ```
